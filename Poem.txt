@@ -8,4 +8,5 @@ Green
 Yellow
 Red
 Beige
+Khaki
 These are the colours of the rainbow.
